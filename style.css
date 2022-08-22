@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+}
+
+.highlight{
+    color: #17b3ab;
+}
+
+
+#BigBox{
+	margin: 10% auto 0 auto;
+    background-color: rgba(255, 255, 255, 0.567);
+    padding: 5%;
+    border-radius: 30px;
+}
